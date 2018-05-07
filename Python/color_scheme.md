@@ -1,3 +1,6 @@
-**Up to 5 colors** : 
+**Color Picking Tools:**
 
-<img src="https://github.com/tawsifkhan/analytics_code_repo/blob/master/files/images/CP_n_5.png" /> <img src="https://github.com/tawsifkhan/analytics_code_repo/blob/master/files/images/CP_n_4.png"/>
+1. http://tristen.ca/hcl-picker/ 
+2. https://flatuicolors.com/palette/defo
+3. http://colorbrewer2.org/
+
